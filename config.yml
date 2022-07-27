@@ -2,3 +2,10 @@ baseURL: https://dev.com.cn
 languageCode: en-us
 title: DEV
 theme: "PaperMod"
+
+menu:
+  main:
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 20
